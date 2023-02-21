@@ -1,0 +1,15 @@
+img{
+  width: 350px;
+  height:475px;
+}
+.container{
+  flex-direction: column;
+  display: flex;
+}
+iframe{
+  width:50%;
+  height: 400px;
+}
+.nav{
+  justify-content: space-between;
+}
